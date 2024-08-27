@@ -18,4 +18,4 @@ pip install numpy pandas scikit-learn matplotlib
 ```
 ## Dataset
 
-[Housing Prices Competition for Kaggle Learn Users](https://www.kaggle.com/competitions/home-data-for-ml-course)
+[Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
